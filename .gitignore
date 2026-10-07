@@ -1,0 +1,15 @@
+# BSDS500 is downloaded separately, see data/README.md
+data/images/
+data/groundTruth/
+
+# Outputs of the supervised scripts
+results/
+
+# MATLAB
+*.asv
+*.m~
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
